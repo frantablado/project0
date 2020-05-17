@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #presentation {
   background-color: lightgray;
   font-size: 18px;
@@ -79,3 +80,86 @@ a:hover, a:active {
   background-color: orangered; }
 
 /*# sourceMappingURL=styles.css.map */
+=======
+#presentation {
+  background-color: lightgray;
+  font-size: 18px;
+  width: 70%;
+  height: auto;
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+
+#titulo {
+  font-size: 40px;
+  font-weight: bold;
+  width: 70%;
+  height: auto;
+  margin: 20px;
+  padding: 20px; }
+
+#list {
+  font-size: 18px;
+  width: 70%;
+  height: auto;
+  margin: 20px;
+  padding-left: 40px;
+  line-height: 40px; }
+
+#bold {
+  font-size: 20px;
+  font-weight: bold; }
+
+#container {
+  width: 70%;
+  height: auto;
+  margin-left: 20px;
+  margin-top: 20px; }
+
+#imgauto {
+  max-width: 100%;
+  height: auto; }
+
+table {
+  background-color: lightgray;
+  margin-left: 20px;
+  padding: 10px;
+  width: 70%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+
+#characteristics {
+  margin-top: 20px;
+  padding: 15px; }
+
+td {
+  padding: 20px; }
+
+th {
+  padding: 20px;
+  font-size: 30px; }
+
+#home a:link, a:visited {
+  margin-top: 50px;
+  margin-left: 35;
+  margin-bottom: 50px;
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; }
+
+a:hover, a:active {
+  background-color: red; }
+
+#prosandcons {
+  margin-top: 20px; }
+
+#pros {
+  background-color: lightgreen; }
+
+#cons {
+  background-color: orangered; }
+
+/*# sourceMappingURL=styles.css.map */
+>>>>>>> 8716898bd95f39b24fe18e9305f2a17d7d6f086c
